@@ -4,7 +4,8 @@ This is the official repository for Airdrop Merkle Smart Contract using Truffle 
 Airdrop Merkle contract allows to cryptographically prove that an element is contained in a set without revealing the entire set.
 
 <br />
-See [Airdrop Merkle](https://en.wikipedia.org/wiki/Merkle_tree) to understand how merkle trees work.
+
+See [AirdropMerkle](https://en.wikipedia.org/wiki/Merkle_tree) to understand how merkle trees work.
 
 ## Table of Contents
 
